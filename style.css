@@ -3,6 +3,11 @@ table {
     margin: 100px;
 }
 
+thead {
+    background-color: blueviolet;
+    color: white;
+}
+
 td,
 th {
     border: 2px solid black;

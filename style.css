@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(194, 194, 194);
+    background-color: rgb(233, 227, 227);
 }
 
 table {
@@ -7,6 +7,7 @@ table {
     background-color: white;
     box-shadow: 4px 5px 40px gray;
     margin: 100px;
+    margin-bottom: 100px;
 }
 
 thead {

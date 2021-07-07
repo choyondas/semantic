@@ -1,15 +1,25 @@
+body {
+    background-color: rgb(194, 194, 194);
+}
+
 table {
     border-collapse: collapse;
+    background-color: white;
+    box-shadow: 4px 5px 40px gray;
     margin: 100px;
 }
 
 thead {
-    background-color: blueviolet;
+    background-color: rgb(41, 41, 41);
     color: white;
 }
 
-td,
-th {
-    border: 2px solid black;
-    padding: 0 10px;
+th,
+td {
+    padding: 15px 40px;
+    border: 2px solid rgb(41, 41, 41);
+}
+
+tbody {
+    color: rgb(36, 35, 35);
 }
